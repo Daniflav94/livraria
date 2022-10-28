@@ -2,8 +2,8 @@
 
 ### Objetivo
 
-Página da web que possibilita adicionar informações de livros através de um formulário e exibi-los em formato de card, com capa, título, autor e uma avaliação pessoal.
-Foram utilizados do Angular as ferramentas DataBinding, Diretivas e Comunicação entre componentes para fazer a interação entre os dados inseridos no formulário e a exibição dos cards.
+Página da web que possibilita adicionar informações de livros através de um formulário e exibi-los em formato de card, com capa, título, autor e uma nota pessoal.
+Foram utilizados do Angular as ferramentas DataBinding, Diretivas e Comunicação entre componentes para fazer a interação entre os dados inseridos no formulário e a exibição dos cards e para adicionar a opção de excluir um card.
 
 ### Tecnologias
 
