@@ -11,7 +11,9 @@ Foram utilizados do Angular as ferramentas DataBinding, Diretivas e Comunicaçã
 - Angular;
 - TypeScript.
 
-### Imagens
+### Imagens e gif do projeto
+
+![livraria](https://user-images.githubusercontent.com/99519903/198751861-00942137-6ec6-4212-9991-8bf9028a86e8.png)
 
 
 ### Link da página
